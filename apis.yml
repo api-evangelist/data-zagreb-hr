@@ -30,7 +30,7 @@ tags:
   - Croatia
 created: '2026-06-04'
 modified: '2026-06-04'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: data-zagreb-hr:catalog
     name: data.zagreb.hr Official Open Data Portal CKAN Action API
